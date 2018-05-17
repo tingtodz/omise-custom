@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Omise PHP Client
 
 [![Join the chat at https://gitter.im/omise/omise-php](https://badges.gitter.im/omise/omise-php.svg)](https://gitter.im/omise/omise-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -142,3 +143,7 @@ phpunit omise-php/tests/omise/AccountTest
 ## License
 
 See LICENSE.txt
+=======
+# omise-custom
+Omise custom 
+>>>>>>> 446d6b6c60d0b635b6be50fe4b1f23586f6bd27d
